@@ -15,7 +15,7 @@ rates.
 
 In this project, we examined how well a trained Resnet-50 model can withstand the Boundary
 Biased Attack, and how well a defense mechanism known as "adversarial training" functions
-when this attack that we have implemented attacks it. We also compare the performances of
+when this attack that we have implemented attacks it. We also compared the performances of
 various other attacks with this attack that we have implemented.
 
 ## Implementation of Boundary Biased Adversarial Attack
