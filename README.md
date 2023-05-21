@@ -54,6 +54,8 @@ direction of the gradient of the loss function with respect to the input image, 
 constraint that the perturbed image remains within a certain L-infinity distance from the original
 image. The L-infinity distance is typically set to a small value, such as 0.03.
 
+<img width="321" alt="Screenshot 2023-05-21 at 22 40 16" src="https://github.com/HarshithK13/Efficient-Adversarial-Attack-Generation-in-Black-Box-Settings/assets/84466567/6e8cdfd5-8fa3-43fd-b728-ade26eb08cda">
+
 The images above show a targeted attack on ImageNet using 15000 queries, which are as
 follows:
 (a) the original image (bell) ,
